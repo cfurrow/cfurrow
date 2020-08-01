@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[Join my web ring!](https://www.youtube.com/watch?v=wpV-gGA4PSk)
+
+
+You're visitor number ![Visitor Count](https://profile-counter.glitch.me/cfurrow/count.svg) since Aug 2020
+
 <!--
 **cfurrow/cfurrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
