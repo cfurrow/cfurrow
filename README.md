@@ -1,21 +1,13 @@
-### Hi there 👋
+# Hey, I'm Carl 👋
 
-[Join my web ring!](https://www.youtube.com/watch?v=wpV-gGA4PSk)
+[![Twitter Badge](https://img.shields.io/twitter/follow/carl_furrow?logo=twitter&style=for-the-badge)](https://twitter.com/carl_furrow)
+[![LinkedIn Badge](https://img.shields.io/badge/-Carl%20Furrow-blue?logo=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/carlfurrow/)
+[![Blog](https://img.shields.io/badge/blog-carlfurrow.com-blue?logo=&style=for-the-badge)](https://blog.carlfurrow.com)
 
+Hello, I'm Carl. I'm a full stack web engineer with a passion for learning and solving problems. I primarily work with Javascript, Ruby on Rails, SQL, Redis, and Kafka. I also do a little game development on the side as a hobby! 
 
-You're visitor number ![Visitor Count](https://profile-counter.glitch.me/cfurrow/count.svg) since Aug 2020
+You can play one of my games, Down to Earth, in your browser, or [go read about how I made it on my blog](https://blog.carlfurrow.com/game-development/2019/03/05/down-to-earth-gamedev-notes.html).
 
-<!--
-**cfurrow/cfurrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://cfurrow.github.io/down_to_earth/">
+  <img alt="Play Down to Earth" src="assets/play.png" width="300px"/>
+</a>
